@@ -12,3 +12,4 @@ django-treebeard
 markdown2
 bleach
 django-querysetsequence
+sqlparse>=0.5.4 # not directly required, pinned by Snyk to avoid a vulnerability
