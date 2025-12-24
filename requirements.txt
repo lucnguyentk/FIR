@@ -12,3 +12,4 @@ django-treebeard
 markdown2
 bleach
 django-querysetsequence
+marshmallow>=3.26.2 # not directly required, pinned by Snyk to avoid a vulnerability
